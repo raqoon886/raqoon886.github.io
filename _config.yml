@@ -28,3 +28,9 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "raqoon"
+
+---
+layout: default
+comments: true
+# other options
+---
