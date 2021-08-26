@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Data Science Lab
+title:            raqoon886
 tagline:          'A Jekyll theme'
 description:      '연습 페이지입니다.'
 url:              http://hyde.getpoole.com
@@ -22,4 +22,9 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/yonsei-dsl
+  repo:           https://github.com/raqoon886
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "raqoon"
