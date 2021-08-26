@@ -24,13 +24,6 @@ version:          2.1.0
 github:
   repo:           https://github.com/raqoon886
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "raqoon"
+disqus_url:       https://raqoon.disqus.com
+disqus_id:        raqoon886
 
----
-layout: default
-comments: true
-# other options
----
