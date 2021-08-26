@@ -9,7 +9,7 @@ permalink:        pretty
 title:            raqoon
 tagline:          'A Jekyll theme'
 description:      '연습 페이지입니다.'
-url:              http://hyde.getpoole.com
+url:              
 baseurl:          /
 
 author:
